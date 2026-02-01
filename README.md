@@ -15,8 +15,6 @@ File PDF ini berisi dokumentasi mini project Eventify,
 meliputi penjelasan fitur, alur penggunaan aplikasi,
 serta tampilan sistem.
 
-📄 Dokumentasi:
-- [Dokumentasi Project Eventify](docs/Dokumentasi_Eventify.pdf)
 
 ## Teknologi
 - Laravel
