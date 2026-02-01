@@ -9,9 +9,14 @@ yang memungkinkan peserta mendapatkan kode registrasi unik.
 - Generate kode registrasi
 - Login & dashboard admin
 
-## Dokumentasi
-Buku panduan penggunaan aplikasi:
-- docs/Buku_Panduan_Eventify.pdf
+## Dokumentasi Project
+
+File PDF ini berisi dokumentasi mini project Eventify,
+meliputi penjelasan fitur, alur penggunaan aplikasi,
+serta tampilan sistem.
+
+📄 Dokumentasi:
+- [Dokumentasi Project Eventify](docs/Dokumentasi_Eventify.pdf)
 
 ## Teknologi
 - Laravel
